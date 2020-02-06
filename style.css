@@ -1,0 +1,21 @@
+body{
+
+}
+#laukaisin{
+    background-color: darksalmon;
+    width: 100px;
+    height: 100px;
+    border: 10px;
+}
+
+/*#videoKoko{
+    width: 200px;
+    height: 200px;
+}
+*/
+
+
+#kuvaMuutos{
+    width: 50px !important;
+    height: 50px !important;
+}
